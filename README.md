@@ -1,4 +1,8 @@
-## 📊 GitHub Stats  
+## Olá! Eu sou o Bruno 🤓
+
+Sou um desenvolvedor web júnior em formação, com foco em HTML, CSS e JavaScript.<br> Estudo por conta própria com base em um roadmap full stack, dedicando 12 horas por semana a cursos, livros e, principalmente, projetos práticos. Gosto de aprender fazendo e de ver meu código ganhar vida na tela.
+
+## 📊 GitHub Stats 
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=bruno-terra19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -24,7 +28,7 @@
 
 ## 🚀 Meus Projetos
 
-🔹 *[App de Clima](https://github.com/brunoterrasilva/app-de-clima)*  
+🔹 *[Site de Clima](https://github.com/brunoterrasilva/app-de-clima)*  
 Consumo de API de clima em tempo real com exibição dinâmica de informações meteorológicas. Design responsivo e interativo.
 
 (Mais projetos em construção! Cada commit é uma nova conquista 💪)
