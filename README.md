@@ -28,7 +28,7 @@ Sou um desenvolvedor web júnior em formação, com foco em HTML, CSS e JavaScri
 
 ## 🚀 Meus Projetos
 
-🔹 *[Site de Clima](https://github.com/brunoterrasilva/app-de-clima)*  
+🔹 *[Site de Clima](file:///C:/Users/PC/Desktop/Bruno/Programação/Projeto%20Clima/projetoclima.html)*  
 Consumo de API de clima em tempo real com exibição dinâmica de informações meteorológicas. Design responsivo e interativo.
 
 (Mais projetos em construção! Cada commit é uma nova conquista 💪)
